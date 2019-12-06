@@ -1,0 +1,17 @@
+C:\Users\rparkar\Desktop\ORXe\Training\Rover\RoverTest\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\rparkar\Desktop\ORXe\Training\Rover\RoverTest\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\rparkar\Desktop\ORXe\Training\Rover\RoverTest\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\rparkar\Desktop\ORXe\Training\Rover\RoverTest\bin\Debug\netcoreapp2.2\RoverTest.deps.json
+C:\Users\rparkar\Desktop\ORXe\Training\Rover\RoverTest\bin\Debug\netcoreapp2.2\RoverTest.runtimeconfig.json
+C:\Users\rparkar\Desktop\ORXe\Training\Rover\RoverTest\bin\Debug\netcoreapp2.2\RoverTest.runtimeconfig.dev.json
+C:\Users\rparkar\Desktop\ORXe\Training\Rover\RoverTest\bin\Debug\netcoreapp2.2\RoverTest.dll
+C:\Users\rparkar\Desktop\ORXe\Training\Rover\RoverTest\bin\Debug\netcoreapp2.2\RoverTest.pdb
+C:\Users\rparkar\Desktop\ORXe\Training\Rover\RoverTest\bin\Debug\netcoreapp2.2\Rover.dll
+C:\Users\rparkar\Desktop\ORXe\Training\Rover\RoverTest\bin\Debug\netcoreapp2.2\Rover.pdb
+C:\Users\rparkar\Desktop\ORXe\Training\Rover\RoverTest\obj\Debug\netcoreapp2.2\RoverTest.csprojAssemblyReference.cache
+C:\Users\rparkar\Desktop\ORXe\Training\Rover\RoverTest\obj\Debug\netcoreapp2.2\RoverTest.csproj.CoreCompileInputs.cache
+C:\Users\rparkar\Desktop\ORXe\Training\Rover\RoverTest\obj\Debug\netcoreapp2.2\RoverTest.AssemblyInfoInputs.cache
+C:\Users\rparkar\Desktop\ORXe\Training\Rover\RoverTest\obj\Debug\netcoreapp2.2\RoverTest.AssemblyInfo.cs
+C:\Users\rparkar\Desktop\ORXe\Training\Rover\RoverTest\obj\Debug\netcoreapp2.2\RoverTest.csproj.CopyComplete
+C:\Users\rparkar\Desktop\ORXe\Training\Rover\RoverTest\obj\Debug\netcoreapp2.2\RoverTest.dll
+C:\Users\rparkar\Desktop\ORXe\Training\Rover\RoverTest\obj\Debug\netcoreapp2.2\RoverTest.pdb

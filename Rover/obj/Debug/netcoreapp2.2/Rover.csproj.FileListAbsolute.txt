@@ -1,0 +1,11 @@
+C:\Users\rparkar\Desktop\ORXe\Training\Rover\Rover\bin\Debug\netcoreapp2.2\Rover.deps.json
+C:\Users\rparkar\Desktop\ORXe\Training\Rover\Rover\bin\Debug\netcoreapp2.2\Rover.runtimeconfig.json
+C:\Users\rparkar\Desktop\ORXe\Training\Rover\Rover\bin\Debug\netcoreapp2.2\Rover.runtimeconfig.dev.json
+C:\Users\rparkar\Desktop\ORXe\Training\Rover\Rover\bin\Debug\netcoreapp2.2\Rover.dll
+C:\Users\rparkar\Desktop\ORXe\Training\Rover\Rover\bin\Debug\netcoreapp2.2\Rover.pdb
+C:\Users\rparkar\Desktop\ORXe\Training\Rover\Rover\obj\Debug\netcoreapp2.2\Rover.csprojAssemblyReference.cache
+C:\Users\rparkar\Desktop\ORXe\Training\Rover\Rover\obj\Debug\netcoreapp2.2\Rover.csproj.CoreCompileInputs.cache
+C:\Users\rparkar\Desktop\ORXe\Training\Rover\Rover\obj\Debug\netcoreapp2.2\Rover.AssemblyInfoInputs.cache
+C:\Users\rparkar\Desktop\ORXe\Training\Rover\Rover\obj\Debug\netcoreapp2.2\Rover.AssemblyInfo.cs
+C:\Users\rparkar\Desktop\ORXe\Training\Rover\Rover\obj\Debug\netcoreapp2.2\Rover.dll
+C:\Users\rparkar\Desktop\ORXe\Training\Rover\Rover\obj\Debug\netcoreapp2.2\Rover.pdb
